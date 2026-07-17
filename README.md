@@ -1,8 +1,5 @@
 # United States Orders Dashboard (2015)
-
-<p align="center">
-<img src="رابط الصورة" width="900">
-</p>
+<img width="1650" height="1275" alt="United States Orders for 2015" src="https://github.com/user-attachments/assets/fa02fe34-045f-466f-8db5-6b9d7ad5feda" />
 
 ## Description
 
